@@ -1,0 +1,192 @@
+Angle Roll
+Angle Nick
+Angle Yaw
+Acc Roll
+Acc Nick
+Vel Baro
+mA
+mW
+mAh
+Max_Velocity
+Max_Height
+Max_Distance
+Vel_Z
+Pressure
+MM3_heading
+MM3_gyro_heading
+MM3_front_heading
+FlyingDirection
+Min_Height
+GPS Frames
+GPS Fix
+GPS #SVs
+GPS North
+GPS East
+GPS Alt
+GPS VEL North
+GPS VEL East
+GPS VEL Down
+eRoll
+eNick
+eYaw
+Abs_Velocity
+Home_Distance
+Home_Heading
+RX OK
+MOTrunning
+ADCmid Roll
+ADCmid Nick
+LockedPressure
+Height
+Stick Roll
+Stick Nick
+Stick Pitch
+Stick Yaw
+MM3_X
+MM3_Y
+MM3_Z
+ADC0 ACC-Nick
+ADC1 ACC-Roll
+ADC2 ACC-Z
+ADC3 raw voltage
+ADC4 GYRO-Roll
+ADC5 GYRO-Nick
+ADC6 GYRO-Yaw
+ADC7
+RC1
+RC2
+RC3
+RC4
+RC5
+RC6
+RC7
+RC8
+RC9
+RC10
+RC11
+RC12
+Debug1
+Debug2
+Debug3
+Panic Mode
+GPS week
+GPS msecs
+Motor 1
+Motor 2
+Motor 3
+Motor 4
+Motor 5
+Motor 6
+Motor 7
+Motor 8
+Motor 9
+Motor 10
+Motor 11
+Motor 12
+BATT VOLTAGE
+FLIGHT STATUS
+GPS NICK
+GPS ROLL
+GPS WAY North
+GPS WAY East
+GPS WAY Action1
+GPS WAY Action2
+GPS Target reached
+GPS HOME North
+GPS HOME East
+POTI1
+POTI2
+POTI3
+POTI4
+Digital RX bytes
+GPS C Dist
+current WP
+GPS North P
+GPS North I
+GPS North D
+GPS East P
+GPS East I
+GPS East D
+US Reading
+MAG X Raw
+MAG Y Raw
+MAG Z Raw
+HH Mode
+Height SPC P
+Height SPC I
+Height SPC D
+ACC_EARTH_X
+ACC_EARTH_Y
+ACC_EARTH_Z
+MAIN_LAST
+MAIN_SUM
+TIME ADC
+TIME MPX
+TIME MAG
+TIME GPSREAD
+TIME GPS
+TIME TIMER
+TIME UART
+TIME RC
+TIME EXT
+TIME DEBUG
+TIME STICK
+TIME RESET
+TIME ORIENT
+TIME MIXER
+TIME SERVOS
+TIME PID
+TIME IRQ T1
+TIME IRQ T2
+TIME IRQ ADC
+TIME IRQ USD
+TIME IRQ US0
+TIME IRQ US1
+GPS PDOP
+GPS Hacc
+GPS Vacc
+ADC0 RAW ACC-Nick
+ADC1 RAW ACC-Roll
+GPS Error
+POI Distance
+POI Heading
+POI North
+POI East
+FW_VERSION
+RC13
+RC14
+RC15
+RC16
+Quat e0
+Quat e1
+Quat e2
+Quat e3
+GInt Roll
+GInt Nick
+GInt Yaw
+msecs
+GPS C North
+GPS C East
+ACC trust
+ACC actual
+unused
+unused
+unused
+unused
+unused
+unused
+unused
+unused
+unused
+unused
+unused
+unused
+unused
+unused
+unused
+unused
+unused
+unused
+unused
+unused
+unused
