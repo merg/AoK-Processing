@@ -143,6 +143,8 @@ class AoKDataParser {
         // Set the actual value
         debug_frames[frame[1]].setValue(val);
         debug_frames[frame[1]].setPosition(last_frame_pos);
+        
+        printDebugFrame();
       } 
       else {
         stat_invalid_debug_id++;
