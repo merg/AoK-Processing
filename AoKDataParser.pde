@@ -112,7 +112,7 @@ class AoKDataParser {
 
   void printDebugFrame() {
     for (int i = 0; i < 7; i++) {
-      print(hex(frame[i]) + " ");
+      print(binary(frame[i]) + " ");
     }
     println("");
   }
@@ -143,7 +143,7 @@ class AoKDataParser {
         // Set the actual value
         debug_frames[frame[1]].setValue(val);
         debug_frames[frame[1]].setPosition(last_frame_pos);
-        
+        print(frame[1] + " ["  + val + "] ");
         printDebugFrame();
       } 
       else {
